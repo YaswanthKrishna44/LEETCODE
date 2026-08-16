@@ -2,10 +2,7 @@ class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         n = len(s)
         m = len(p)
-
-        # DP array initialized to -1
-        dp = [[-1 for _ in range(m)] for _ in range(n)]
-
+        dp = [[-1]*(m+1) for _ in range(n)]
         return self.wildmatching(s, p, n - 1, m - 1, dp)
     def isAllStars(self, p, i):
         for j in range(i + 1):
