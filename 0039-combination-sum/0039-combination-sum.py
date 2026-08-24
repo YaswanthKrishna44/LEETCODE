@@ -10,3 +10,4 @@ class Solution:
                     res += dice(p + [num], nums, target - num, i)  # i, not 0, to avoid reordering
             return res
         return dice([], candidates, target, 0)
+        
