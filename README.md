@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
