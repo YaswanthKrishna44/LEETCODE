@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0072-edit-distance) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0072-edit-distance) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
