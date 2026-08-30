@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [0300-longest-increasing-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0022-generate-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
