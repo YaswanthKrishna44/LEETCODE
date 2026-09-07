@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1143-longest-common-subsequence) |
