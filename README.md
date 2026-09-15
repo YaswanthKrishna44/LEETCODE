@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
