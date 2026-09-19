@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1922-count-good-numbers) |
@@ -327,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
