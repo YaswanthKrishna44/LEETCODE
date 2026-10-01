@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [1106-parsing-a-boolean-expression](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1106-parsing-a-boolean-expression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
