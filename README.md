@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1386-cinema-seat-allocation) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
