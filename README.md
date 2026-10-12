@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1043-partition-array-for-maximum-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1463-cherry-pickup-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
