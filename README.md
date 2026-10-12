@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0368-largest-divisible-subset) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0050-powx-n) |
 | [1106-parsing-a-boolean-expression](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
