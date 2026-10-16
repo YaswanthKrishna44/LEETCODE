@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
