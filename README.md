@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0877-stone-game) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
