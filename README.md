@@ -474,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
