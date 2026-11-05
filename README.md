@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1463-cherry-pickup-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
