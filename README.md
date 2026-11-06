@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0216-combination-sum-iii) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
