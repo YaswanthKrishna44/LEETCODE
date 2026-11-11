@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0075-sort-colors) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0079-word-search) |
