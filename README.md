@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3364-minimum-positive-sum-subarray](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3364-minimum-positive-sum-subarray](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
