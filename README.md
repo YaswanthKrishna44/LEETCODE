@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -524,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
