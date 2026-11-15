@@ -8,18 +8,16 @@ class Solution:
             else:
                 source_arr.append(num)
         result = []
-        i, j = 0, 0  # Pointers for target_arr and source_arr respectively
-
-    # Weave the two lists together
+        i, j = 0, 0  
         while i < len(target_arr) and j < len(source_arr):
-            result.append(target_arr[i])  # Add element from target (even pos)
-            result.append(source_arr[j])  # Add element from source (odd pos)
+            result.append(target_arr[i])  
+            result.append(source_arr[j])
             i += 1
             j += 1
-    
     # Add any remaining elements from either list
         result.extend(target_arr[i:])
         result.extend(source_arr[j:])
         return result
 
+        
         
