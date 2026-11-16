@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
