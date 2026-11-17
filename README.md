@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
