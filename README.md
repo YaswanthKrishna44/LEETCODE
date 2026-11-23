@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -542,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/0229-majority-element-ii) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/YaswanthKrishna44/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
